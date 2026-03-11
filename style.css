@@ -125,15 +125,15 @@ body {
 }
 
 #temp_min_icon {
-    color: #0284c7;
+    color: #3bb6f3;
 }
 
 #humidity_icon {
-    color: #0ea5e9;
+    color: #134a64;
 }
 
 #wind_icon {
-    color: #7c3aed;
+    color: #380e81;
 }
 
 #alert {
