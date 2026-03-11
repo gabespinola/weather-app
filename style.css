@@ -139,6 +139,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: #23aad3;
 }
 
 #alert img {
