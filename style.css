@@ -18,8 +18,7 @@ body {
 
 #container {
     background-color: #f0f8ff;
-    border-radius: 20px;
-    padding: 18px;
+    padding: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
 
@@ -27,7 +26,7 @@ body {
     display: flex;
     align-items: center;
     gap: 8px;
-    border: 1px solid #bdbdbd;
+    border: 1px solid #3bc7da;
     border-radius: 10px;
     padding: 4px 12px;
 }
@@ -62,7 +61,7 @@ body {
     text-align: center;
     margin-bottom: 5px;
     font-weight: 600;
-    color: #372f3f;
+    color: #020202;
 }
 
 #temp {
@@ -70,7 +69,7 @@ body {
     align-items: center;
     justify-content: space-around;
     gap: 20px;
-    background: linear-gradient(90deg, #5a7cdc, #606dde);
+    background: linear-gradient(90deg, #65bad4, #cecc4a);
     color: #fff;
     border-radius: 20px;
     padding: 20px;
